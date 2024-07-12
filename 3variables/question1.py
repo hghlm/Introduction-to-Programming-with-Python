@@ -1,0 +1,8 @@
+print("index is idiomatic")
+print("CatName is non-idiomatic, starts with capital")
+print("lazy_dog is idiomatic")
+print("quick_Fox is non-idiomatic, capital on Fox")
+print("1stCharacter is illegal, starts with number")
+print("operand2 is idiomatic")
+print("BIG_NUMBER is non-idiomatic, uses all capitals which should be for constants")
+print("π is non-idiomatic, not ASCII char")

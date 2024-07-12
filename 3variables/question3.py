@@ -1,0 +1,1 @@
+print('LAZY_DOG3 and BIG_NUMBER are idiomatic, rest are either non-idiomatic or illegal')

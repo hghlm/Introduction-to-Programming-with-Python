@@ -1,0 +1,1 @@
+print('function names same as variable names, same answers')

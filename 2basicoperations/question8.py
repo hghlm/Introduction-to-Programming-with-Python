@@ -1,0 +1,1 @@
+print("True because first value of 1 is less than first value of 9. If both were numbers instead of strings, it would print out False.")

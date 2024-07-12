@@ -1,0 +1,1 @@
+print('CatName and BigNumber3 are idiomatic, others are non-idiomatic or illegal, no underscores allowed')

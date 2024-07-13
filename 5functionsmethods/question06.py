@@ -1,0 +1,1 @@
+print("Does not print anything because return terminates the function.")

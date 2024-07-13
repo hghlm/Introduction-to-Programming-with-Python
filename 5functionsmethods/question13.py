@@ -1,0 +1,1 @@
+print("Once one positional parameter has a default value, subsequent parameters must also have default values, so there will be an error.")

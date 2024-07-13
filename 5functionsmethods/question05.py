@@ -1,0 +1,1 @@
+print("Nothing because it doesn't have print")

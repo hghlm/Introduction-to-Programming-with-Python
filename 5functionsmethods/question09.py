@@ -1,0 +1,1 @@
+print("It will print the respective numbers each on a new line.")

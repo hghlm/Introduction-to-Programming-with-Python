@@ -1,0 +1,1 @@
+print("Error because there is only one argument supplied when there are 2 parameters.")

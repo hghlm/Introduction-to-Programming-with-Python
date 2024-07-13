@@ -1,0 +1,1 @@
+print("It will print the first 2 numbers each on its own line then print 2 on another line.")

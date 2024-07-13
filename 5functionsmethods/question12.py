@@ -1,0 +1,1 @@
+print("It will give an error because there is no argument for the first parameter.")

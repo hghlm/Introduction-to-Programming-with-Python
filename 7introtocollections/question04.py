@@ -1,0 +1,1 @@
+#Strings are ordered and each character can be indexed.

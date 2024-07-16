@@ -1,0 +1,11 @@
+# range(7)
+# range(1, 6)
+# range(3, 15, 4)
+# range(3, 8, -1)
+# range(8, 3, -1)
+
+print("0-6")
+print("1-5")
+print("3,7,11")
+print("[]")
+print("8,7,6,5,4,")
